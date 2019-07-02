@@ -1,0 +1,31 @@
+{
+  "name": "page-foot",
+  "version": "1.0.4",
+  "description": "一个基于Element的翻页插件插件",
+  "author": "bifjhh <929160004@qq.com>",
+  "main": "src/index.js",
+  "license": "MIT",
+  "private": false,
+  "keywords": [
+    "Vue2",
+    "Element"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bifjhh/page-foot"
+  },
+  "bugs": {
+    "url": "https://github.com/bifjhh/page-foot/issues"
+  },
+  "homepage": "https://github.com/bifjhh/page-foot#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "devDependencies": {}
+}
